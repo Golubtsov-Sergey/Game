@@ -5,12 +5,12 @@ The goal is to find all matching pairs of cards by flipping them over.
 
 🚀 Live Demo
 
-Click here to play the game!
-(Note: Replace "Game" in the link above with your actual repository name if it differs)
+Click here to play the game! - https://golubtsov-sergey.github.io/Game/
 
 📱 Preview
 
-(Please upload a screenshot of your game to the img folder and name it game-preview.png)
+<img width="1440" height="810" alt="image" src="https://github.com/user-attachments/assets/6712f637-3b75-4d2b-8f5c-726896c5c46c" />
+
 
 🛠 Tech Stack
 
